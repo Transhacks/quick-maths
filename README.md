@@ -1,4 +1,4 @@
-Quick Maths
+# Quick Maths
 This is a Weave mod. 
 - Download [lunar-launcher-inject.](https://github.com/Nilsen84/lunar-launcher-inject/releases/tag/v1.1.3)
 - Download [weave-loader.](https://github.com/Weave-MC/Weave-Loader)
