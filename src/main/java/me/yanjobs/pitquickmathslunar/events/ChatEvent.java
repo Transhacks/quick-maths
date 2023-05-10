@@ -34,7 +34,7 @@ public class ChatEvent {
 
 		if(rawMessage.matches(".*[+\\-x/*()].*")){
 			try{
-				String mathProblem = rawMessage.replace("QUICK MATHS! Solve: ", "").replace(" ", "");
+				String mathProblem = rawMessage.replace(" ", "");
 				
 				TimerTask task = new TimerTask() {
 	                @Override
