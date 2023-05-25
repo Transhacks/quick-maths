@@ -4,8 +4,8 @@ import java.util.Timer;
 
 import java.util.TimerTask;
 import java.util.concurrent.ThreadLocalRandom;
-import club.maxstats.weave.loader.api.event.ChatReceivedEvent;
-import club.maxstats.weave.loader.api.event.SubscribeEvent;
+import net.weavemc.loader.api.event.ChatReceivedEvent;
+import net.weavemc.loader.api.event.SubscribeEvent;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.util.ChatComponentText;
@@ -125,4 +125,3 @@ public class ChatEvent {
 		}.parse();
 	}
 }
-
